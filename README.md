@@ -1,4 +1,4 @@
-**Online Retail Customer Churn Prediction**
+#**Online Retail Customer Churn Prediction**
 
 ### Project Overview 📊
 This project aims to create a classification model to predict whether a customer will churn or not. The model will use features likely to affect the customer's decision to churn. Five algorithms will be evaluated: K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, and AdaBoost. These models will be tuned to identify the best one for classification. Recall will be used as the primary metric to evaluate the model's ability to identify customers who will churn and minimize undetected churn.
